@@ -1,9 +1,0 @@
-{
-  "repositories": [
-    {
-      "fullName": "wrbejar/RailsTestRelease",
-      "branchName": "master",
-      "uploadScannerLogs": true
-    }
-  ]
-}
